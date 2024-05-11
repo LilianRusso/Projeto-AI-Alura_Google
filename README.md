@@ -1,4 +1,4 @@
-                                                                                 # BUSCADOR WIKIPÉDIA
+# BUSCADOR WIKIPÉDIA
 
 # Objetivo ⚙
 Este projeto visa desenvolver um script em Python para auxiliar na busca e organização de informações da Wikipédia para fins de estudo. A ferramenta automatiza a pesquisa por tópicos relevantes, fornecendo resumos concisos e links para aprofundamento.
